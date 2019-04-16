@@ -1,0 +1,63 @@
+body{
+
+
+}
+.first{
+    
+    position: absolute; 
+    top: 10px;
+    left: 750px;
+    padding: 5px
+}
+
+.heading{
+
+    text-decoration: none;
+    color:black;
+    
+}
+
+.one{
+    position: absolute;
+    padding: 25px;
+    right: 30px;
+}
+
+
+.two{
+    position: absolute;
+    padding: 25px;
+    right: -70px;
+}
+
+.three{
+    position: absolute;
+    padding: 25px;
+    right:  -169px;
+}
+
+.four{
+    position: absolute;
+    padding: 27px;
+    right:  -260px;
+}
+.fifty{
+
+
+    color: red;
+    padding: -25px;
+    font-size: 70px;
+    border: solid,white; height:100px; width: 1000px;
+    background-color:lightgray;
+}
+
+.twenty{
+ 
+  float:right;    
+}
+
+.thirty{
+    border: solid,yellow;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh66rbgBtIm6qzuYnZ86A-h8Eg7iuGBea-NYh-P_orX7M5zQ3F);
+
+}

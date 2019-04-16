@@ -1,0 +1,128 @@
+body
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh66rbgBtIm6qzuYnZ86A-h8Eg7iuGBea-NYh-P_orX7M5zQ3F);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: red;
+    padding: -20px;
+    font-size: 50px;
+    border: solid,white; height:100px; width: 1000px;
+    background-color:lightgray;
+    
+   }
+
+
+.first{
+    
+    position: absolute; 
+    top: 10px;
+    left: 750px;
+    padding: 5px
+}
+
+.heading{
+
+    text-decoration: none;
+    color:black;
+    
+}
+
+.one{
+    position: absolute;
+    padding: 25px;
+    right: 30px;
+}
+
+
+.two{
+    position: absolute;
+    padding: 25px;
+    right: -70px;
+}
+
+.three{
+    position: absolute;
+    padding: 25px;
+    right:  -150px;
+}
+
+.four{
+    position: absolute;
+    padding: 27px;
+    right:  -260px;
+}
+
+.heading2{
+    position: absolute;
+    left: 88px;
+   
+}
+
+.heading3{
+    position: absolute;
+    left: 60px;
+    padding:30px;
+}
+
+.heading4{
+    position: absolute;
+    left: 35px;
+    padding: 60px;
+}
+
+.ek{
+    position: absolute;
+    left: 650px;
+}
+
+.five{
+   font-size: 20px;
+   color: red; 
+  position: absolute;
+  left: 30px;
+  padding: 30px ;
+   
+   
+   
+   
+}
+.six{
+    font-size: 19px;
+    position: absolute;
+    left: 55px;
+    padding: 5px; 
+       
+}
+
+.seven{
+    font-size: 15px;
+    position: absolute;
+    left: 30px;
+    padding: 70px;
+}
+.eight{
+  
+position: absolute;
+left: 700px;
+
+}
+
+ .ten{
+    border: thick,green;
+    background-color: green;
+    
+
+ }
+
+.eleven,.twelve,.thirteen,.fourteen{
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+border: solid,green;
+background-color: green;
+
+
+

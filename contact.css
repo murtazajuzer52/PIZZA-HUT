@@ -1,0 +1,98 @@
+body
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh66rbgBtIm6qzuYnZ86A-h8Eg7iuGBea-NYh-P_orX7M5zQ3F);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: red;
+    padding: -20px;
+    font-size: 50px;
+    border: solid,white; height:100px; width: 1000px;
+    background-color:lightgray;
+    
+   }
+
+
+.first{
+    
+    position: absolute; 
+    top: 10px;
+    left: 750px;
+    padding: 5px
+}
+
+.heading{
+
+    text-decoration: none;
+    color:black;
+    
+}
+
+.one{
+    position: absolute;
+    padding: 25px;
+    right: 30px;
+}
+
+
+.two{
+    position: absolute;
+    padding: 25px;
+    right: -50px;
+}
+
+.three{
+    position: absolute;
+    padding: 25px;
+    right:  -169px;
+}
+
+.four{
+    position: absolute;
+    padding: 27px;
+    right:  -260px;
+}
+
+.maps{
+  
+position: absolute;
+padding: 10px;
+
+}
+
+.optp {
+ border: solid,red;
+ background-color: green;
+ font-size: 60px; 
+ 
+}
+
+.dominos{
+   
+   border: solid,yellowgreen;
+   background-color: yellowgreen;  
+   font-kerning: auto;
+   font-size: 48.5px;
+}
+
+.pink{
+
+     background-color: yellow;
+
+}
+
+.black{
+  
+ color: orange;
+ font-size: 30px;
+
+
+}
+
+.green{
+    
+   font-size: 25px;
+}
